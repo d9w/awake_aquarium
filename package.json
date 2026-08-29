@@ -1,0 +1,28 @@
+{
+  "name": "awake-aquarium",
+  "version": "0.1.0",
+  "description": "A tiny animated aquarium powered by macOS caffeinate",
+  "private": true,
+  "type": "module",
+  "bin": {
+    "awake-aquarium": "dist/cli.js",
+    "caffeinate-aquarium": "dist/cli.js"
+  },
+  "files": [
+    "dist",
+    "README.md"
+  ],
+  "scripts": {
+    "build": "tsc -p tsconfig.json",
+    "check": "tsc -p tsconfig.json --noEmit",
+    "start": "node dist/cli.js",
+    "test": "npm run build && node --test dist/**/*.test.js"
+  },
+  "engines": {
+    "node": ">=20"
+  },
+  "devDependencies": {
+    "@types/node": "^26.4.0",
+    "typescript": "^7.0.2"
+  }
+}
