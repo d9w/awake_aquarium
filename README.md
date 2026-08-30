@@ -4,25 +4,15 @@
 
 <br>
 
-# `A W A K E   A Q U A R I U M`
-
-### Night watch wears bright fins
-### Soft bubbles climb through dark glass
-### Sleep drifts past the reef
+# `A W A K E  - A Q U A R I U M`
+</div>
 
 <br>
 
-<pre><code>awake-aquarium</code></pre>
+`stay awake fish friend`<br>
+`git clone; npm install`<br>
+`caffeinate no more`
 
-<br>
-
-`BLUB`　　`BLOOP BLOOP`　　`GLUB`
-
-<br>
-
-<kbd>f</kbd>　<kbd>b</kbd>　<kbd>space</kbd>　<kbd>t</kbd>　<kbd>p</kbd>　<kbd>?</kbd>　<kbd>q</kbd>
-
-<br><br>
 
 ```text
                    .             o
@@ -39,30 +29,8 @@
  ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 ```
 
-### Long numbers wander
-### Through the electric midnight
-### Small fins guard the run
-
-<br>
-
-```text
-+-[ blub bloop glub ]-+
-| o              .   |
-|    ><o>            |
-|             <o))>< |
-|  Y       v(o.o)v   |
-|__Y__.__o__.__.__.__|
-+-[ bloop ]----------+
-```
-
-<br>
-
-### Dark screens dream of tides
-### Warm processors hum softly
-### Morning finds fins bright
-
-<br>
+`long numbers wander`<br>
+`through the electric midnight`<br>
+`sleep drifts past the reef`<br>
 
 `~ ~ ~ blub bloop glub ~ ~ ~`
-
-</div>
